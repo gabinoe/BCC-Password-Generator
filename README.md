@@ -37,4 +37,7 @@ We welcome contributions to enhance the functionality and user experience of the
 
 This Password Generator web application is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
----
+## LINKS
+
+- repo: https://github.com/gabinoe/BCC-Password-Generator
+- pages: https://gabinoe.github.io/BCC-Password-Generator
