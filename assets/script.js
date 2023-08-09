@@ -57,7 +57,7 @@ function writePassword() {
   passwordText.value = password;
 
 }
-var generateBtn = document.querySelector('#generate');
+
 
 generateBtn.addEventListener("click", writePassword);
 
