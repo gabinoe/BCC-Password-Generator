@@ -1,10 +1,10 @@
-# Password Generator Web Application
+# Password Generator 
 
 This is a simple Password Generator web application that allows users to generate secure passwords. Users can select the password length (between 8 and 128 characters) and choose whether to include lowercase letters, uppercase letters, numeric characters, and special characters in the password.
 
 ## Demo
 
-You can try out the Password Generator web application by visiting the live demo 
+You can try out the Password Generator web application by visiting the live site: https://gabinoe.github.io/BCC-Password-Generator/
 
 ## Features
 
@@ -37,4 +37,7 @@ We welcome contributions to enhance the functionality and user experience of the
 
 This Password Generator web application is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
----
+## LINKS
+
+- repo: https://github.com/gabinoe/BCC-Password-Generator
+- pages: https://gabinoe.github.io/BCC-Password-Generator
